@@ -59,7 +59,8 @@ order by PercentPopulationInfected desc
 
 
 
-
+---- Tableau visualization
+https://public.tableau.com/app/profile/mantasha.ansari/viz/Tableauproject1_16444192957560/Dashboard1?publish=yes
 
 
 
